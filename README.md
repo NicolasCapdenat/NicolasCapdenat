@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NicolasCapdenat
 - 👀 I’m interested in sport like windsurf/wingsurf ,CrossFit, i'm also interested in video games and streaming and i love treking with friend 
-- 🌱 I’m currently learning the basic of programming in Java with many differents project
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the basic of programming in Python withe some projects
 - 📫 How to reach me on my email : capdenat.nicolas@gmail.com
 
 <!---
